@@ -9,7 +9,7 @@ a:visited {
 
 }
 a:hover {
-	color: #2345ce;
+	/*color: #2345ce;*/
 	text-decoration: underline;
 }
 /*a:active {
@@ -41,6 +41,7 @@ table, th, td {
 .contact_img {
 	width:300px;
 	height:300px;
+	border: 2px solid black;
 }
 .indiv_name {
 	font-weight:bold;
